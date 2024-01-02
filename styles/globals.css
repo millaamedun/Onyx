@@ -38,7 +38,7 @@
   }
   
   ::selection {
-    background:#d9f4f8cf ;
+    background:#d9eaf887 ;
   }
   
   .rtl {
@@ -58,7 +58,7 @@
   }
   
   ::-webkit-scrollbar {
-    width: 12px;
+    width: 0px;
   }
   
   /* Track */
