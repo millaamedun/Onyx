@@ -58,7 +58,7 @@
   }
   
   ::-webkit-scrollbar {
-    width: 0px;
+    width:6px;
   }
   
   /* Track */
@@ -76,4 +76,3 @@
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
     background: #5b7fa1; }
-  
